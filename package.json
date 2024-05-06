@@ -1,0 +1,23 @@
+{
+  "name": "react-native-launcher",
+  "version": "1.0.0",
+  "description": "React native launcher icon for android and ios",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "postinstall": "node ./postinstall.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tgg-nikhilrsharma/react-native-launcher.git"
+  },
+  "keywords": [
+    "React-Native-Launcher"
+  ],
+  "author": "Nikhil Sharma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tgg-nikhilrsharma/react-native-launcher/issues"
+  },
+  "homepage": "https://github.com/tgg-nikhilrsharma/react-native-launcher#readme"
+}

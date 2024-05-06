@@ -1,0 +1,8 @@
+{
+    "ios": {
+        "icon": "app/assets/icons/logo.png"
+    },
+    "android": {
+        "icon": "app/assets/icons/logo.png"
+    }
+}
